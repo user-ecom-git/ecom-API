@@ -34,4 +34,4 @@
    * sbp.yml
    
 #### `Ссылка на документ`
-Протокол расположен по адресу https://e-commerce.raiffeisen.ru/api/doc/sbp.html
+Протокол расположен по адресу https://e-commerce.raiffeisen.ru/api/doc/sbp.html 
